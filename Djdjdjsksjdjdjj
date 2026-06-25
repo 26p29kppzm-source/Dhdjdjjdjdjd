@@ -1,6 +1,6 @@
 
 -- ============================================================
--- NatAov Hub | Blox Fruits Auto Script
+-- XDS Hub | Blox Fruits Auto Script
 -- Tác giả  : Dev-AnhTuanSiTink 
 -- Phiên bản: Blox Fruits Main
 -- Mô tả    : Hub tự động hóa toàn diện cho game Blox Fruits
@@ -1554,7 +1554,7 @@ local Window = ProxyLib.new()
 local MainWindow = Window:CreateWindow({
         Title    = "XDS /Pjuj99ure5",
         Subtitle = "Blox Fruits",
-        Icon     = "rbxassetid://120488231660846",
+        Icon     = "rbxassetid://110045698808138",
         Size     = Vector2.new(520, 380),
         MinSize  = Vector2.new(380, 250),
         MaxSize  = Vector2.new(900, 650),
@@ -1575,7 +1575,7 @@ local MainWindow = Window:CreateWindow({
     },
     Words = {
         {
-            Text = "NatAov",
+            Text = "XDSHUB",
             Colors = {
                 Color3.fromRGB(255, 255, 255)
             }
