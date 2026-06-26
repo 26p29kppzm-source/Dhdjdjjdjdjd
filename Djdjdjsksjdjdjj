@@ -61,7 +61,6 @@ end
 -- [BLOCK 2] CHỜ GAME TẢI XONG
 -- Chờ UI Loading và game:IsLoaded() = true
 -- ============================================================
-repeat local start = plr.PlayerGui:WaitForChild("Main"):WaitForChild("Loading") and game:IsLoaded() wait() until start
 
 -- Xác định biển hiện tại:
 -- World1=First Sea, World2=Second Sea, World3=Third Sea
