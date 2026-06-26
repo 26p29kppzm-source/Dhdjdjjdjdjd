@@ -1633,8 +1633,8 @@ Tabs.Discord:CreateSection({ Text = "Information", Icon = "rbxassetid://0" })
 Tabs.Discord:CreateDiscordInvite({
 	Title = "NatAov Hub | Community",
 	Description = "A community for XDSHUB Hub Users - official scripts, updates, and suport in one place.",
-	Banner = "rbxassetid://110167557685296", 
-	Icon = "rbxassetid://120488231660846",
+	Banner = "rbxassetid://88338825644330",
+	Icon = "rbxassetid://83535121607653",
 	Link = "https://discord.gg/Pjuj99ure5",
     Button = "Join Server",
 
