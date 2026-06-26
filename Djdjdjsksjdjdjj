@@ -1590,7 +1590,7 @@ local MainWindow = Window:CreateWindow({
     },
 },
 
-        FloatButton = { Shape = "Circle", Color = "Black", Size = 60, Icon = "rbxassetid://83535121607653" },
+        FloatButton = { Shape = "Circle", Color = "Black", Size = 60, Icon = "rbxassetid://102483953000883" },
 
         ConfigPanel = {
             Enabled = true, Acrylic = true, Theme = true,
